@@ -5,7 +5,7 @@ This project counts the number of diabetic (Outcome = 1) and non-diabetic (Outco
 ---
 ## 📦 Project Structure
 
-
+```
 DiabetesMapReduce/
 ├── src/
 │   ├── OutcomeMapper.java
@@ -14,6 +14,7 @@ DiabetesMapReduce/
 ├── build/                  # Compiled .class files
 ├── DiabetesCount.jar       # Output JAR
 ├── diabetes_dataset.csv    # Input CSV data
+```
 
 
 ## 🖥 Prerequisites
