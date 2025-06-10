@@ -1,6 +1,6 @@
 # 🧮 Diabetes Outcome Counter using Hadoop MapReduce (Java)
 
-This project counts the number of diabetic (`Outcome = 1`) and non-diabetic (`Outcome = 0`) cases in a dataset using Hadoop MapReduce written in Java. Further it checks for gender based glucode levels.
+This project counts the number of diabetic (`Outcome = 1`) and non-diabetic (`Outcome = 0`) cases in a dataset using Hadoop MapReduce written in Java. Further it checks for gender based glucose levels.
 
 ---
 ## 📦 Project Structure
